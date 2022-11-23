@@ -1,0 +1,1 @@
+<view class="login-box data-v-08275b8e"><image class="img data-v-08275b8e" src="../../static/logo.png"></image><button class="btn data-v-08275b8e" type="primary" data-event-opts="{{[['tap',[['getUserinfo',['$event']]]]]}}" bindtap="__e">微信授权登录</button></view>

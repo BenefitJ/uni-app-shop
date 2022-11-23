@@ -1,0 +1,1 @@
+<view class="success data-v-464b4742"><uni-icons vue-id="831c9ef2-1" size="100" type="checkbox-filled" color="#1aa034" class="data-v-464b4742" bind:__l="__l"></uni-icons><text class="font-color data-v-464b4742">支付成功</text><button data-event-opts="{{[['tap',[['openLink',['$event']]]]]}}" class="back data-v-464b4742" bindtap="__e">首页</button></view>

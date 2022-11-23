@@ -1,0 +1,1 @@
+<view class="search-box" style="{{('top:'+topHeight+'px')}}"><view data-event-opts="{{[['tap',[['goSearch',['$event']]]]]}}" class="search-content" bindtap="__e"><uni-icons vue-id="3f5a6708-1" type="search" bind:__l="__l"></uni-icons><text>搜索</text></view></view>
